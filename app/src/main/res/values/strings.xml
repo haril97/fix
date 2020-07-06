@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fix</string>
+    <string name="nama_jurusan">jurusan</string>
+    <string name="nama_siswa">siswa</string>
+    <string name="save">simpan</string>
+</resources>
